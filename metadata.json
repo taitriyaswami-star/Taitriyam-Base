@@ -1,0 +1,6 @@
+{
+  "name": "Lord Dattatreya",
+  "description": "A pristine, high-contrast minimalist presentation of the divine image of Lord Dattatreya for meditation and darshan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
